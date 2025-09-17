@@ -95,35 +95,6 @@ NOTE: Beware using older code examples. OpenAI API announced a major change from
 
 # ==========[ In Class ]==========
 
-## Goals:
-
-* Recent and future impacts of AI on Employment and the Future of Work
-* More in-depth prompt engineering
-* More OpenAI API coding
-* Lighter readings to accomodate Mini-Project #1: Chatbots
-* Leveraing AI to accelerate and deepen learning
-* Contrasting and resolving apparently contradictory AI research
-
-* Local IDE Setup: Crash course
-  - Visual (VSCode) + Roo + ClI
-  - Command Line Interface (CLI) 
-  - AI Development (Gemini CLI)
-* OpenAI API Review
-* Colab Ollama API
-* Advanced Prompt Engineering:
-  - Templates
-  - OpenAI GPT5
-  - Structured Markup Langauge: POML
-  - Optimization: DSPy
-* AI Pair Programming
-  - Autocomplete
-  - Agents (copilot)
-  - Frameworks (Roo Code)
-  - CLI (Gemini or Claude Code)
-* Mini-Project #1: Chat
-  - System Prompt/Personas
-  - Reverse engineer Character.ai
-
 ## News
 
 * [(AI ~10m) The Hater's Guide To The AI Bubble by Zitron (21 Jul 2025)](https://www.wheresyoured.at/the-haters-gui/)
@@ -148,11 +119,11 @@ Use AI to analyze these papers, explore the apparent contradictions and resoluti
 
 ## Structured Prompt Engineering
 
-* GPT5 Structured Prompts
+* **GPT5 Structured Prompts**
   * [Download](https://chatgpt.com/c/68c31dcf-256c-832f-bf97-67e059ae13fd)
   * [Unzip](https://chatgpt.com/c/68c31dcf-256c-832f-bf97-67e059ae13fd)
 
-* POML
+* **POML**
   - [jon-chun/poml-examples](https://github.com/jon-chun/poml-examples)
 
 ## Local Ollama API
