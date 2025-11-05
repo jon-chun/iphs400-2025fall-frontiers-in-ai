@@ -73,7 +73,7 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
 
 ### **[AI News/Current Events]**
 
-(Coming)...)
+* [Federal Judges Caught Using ChatGPT (22:38) (28 Oct 2025)](https://www.youtube.com/watch?v=cDzEP0yB-Kw)
 
 ### **[ New Technical Assignments ]**
 
@@ -102,7 +102,6 @@ TIP: There are a LOT OF READINGS that you should selectively and deftly use AI t
 ### LangChain & LangGraph
 
 * [LangChain Academy: Quickstart: LangChain Essentials - Python](https://academy.langchain.com/courses/langchain-essentials-python)
-* [LangChain Academy: Quickstart: LangGraph Essentials - Python](https://academy.langchain.com/courses/langgraph-essentials-python)
 
 * [How to apply context engineering (23:19) (Aug 2025)](https://www.youtube.com/watch?v=nyKvyRrpbyY)
   - [(Slides) How to Fix your Context](https://docs.google.com/presentation/d/16aaXLu40GugY-kOpqDU4e-S0hD1FmHcNyF0rRRnb1OU/edit?slide=id.p#slide=id.p)
